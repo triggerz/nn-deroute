@@ -3,8 +3,16 @@
  - Initial Scene: scene-1
 
 # Variables
- - Resources: 100
- - Engagement: 100
- - Output: 100
- - Total: 100
+ - yourself-aware-ownemotions
+ - bringoutthebest-engage-healthywork
+ - bringoutthebest-engage-constructive
+ - bringoutthebest-developteam-others
+ - bringoutthebest-developteam-dedicating
+ - rolemodel-decisions-thennway
+ - rolemodel-decisions-competition
+ - cleanleadership-compliance-training
+ - bringoutthebest-performance-collab
+ - yourself-authentic-rolemodel
+ - rolemodel-setdirection-ambitious
+
 
