@@ -1,6 +1,6 @@
 # Config
  - Title: Deroute for your new employee
- - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1521496085/stock-photo-sad-young-woman-with-worried-stressed-face-expression-548638960_1.jpg
+ - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1521576122/shutterstock_548638960_3.jpg
 
 # Description
 You have recently hired a new employee, Sophie, who has joined your team as a GMP specialist. After 8 months, Sophie is showing signs of stress. Sophie is very skilled, dedicated and wants all her tasks to be close to perfection, making high demands on her own performance. As Sophie's manager, you invite her for several talks to discuss prioritisation. Unfortunately, her symptoms seem to getting worse. What is your next move?  
