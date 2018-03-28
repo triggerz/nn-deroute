@@ -1,5 +1,5 @@
 # Config
- - Title: Deroute for your new employee
+ - Title: Stress in your team
  - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1522013714/dilemma_stress_in_team.jpg
 
 # Description
